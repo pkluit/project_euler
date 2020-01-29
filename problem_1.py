@@ -1,7 +1,7 @@
 ########################################################################################################################
-# Title: problem_1.py                                                                                                  #
-# Purpose: The purpose of this script is to solve the following problem                                                #
-# Problem: Find the sum of all the multiples of 3 or 5 below 1000.
+# Title:    problem_1.py                                                                                                  #
+# Purpose:  The purpose of this script is to solve the following problem                                                #
+# Problem:  Find the sum of all the multiples of 3 or 5 below 1000.                                                     #
 # Last Modified; 1/28/2020                                                                                             #
 # Property of: Paul Kluitenberg                                                                                        #
 ########################################################################################################################
