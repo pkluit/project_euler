@@ -19,4 +19,5 @@ def fib_lst(limit):
     [fib.append(x+fib[ind-1]) for ind,x in enumerate(fib) if ind > 0 and x+fib[ind-1]<=limit]
     return fib
 
+# Output solution
 solution = sum(even_vals(fib_lst(4000000)))
