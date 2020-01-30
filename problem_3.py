@@ -24,6 +24,8 @@ def is_prime(num: int):
     else:
         return True
 
+# Output solution
+
 limit = 600851475143
 primes = [x for x in lst_factors(limit) if is_prime(x)==True]
 solution = max(primes)
